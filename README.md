@@ -270,3 +270,6 @@ namespace EventToCommand.ViewModels
 
 ```
 
+### Result
+
+![](EventToCommand/screenshots/result.PNG)
