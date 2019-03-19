@@ -272,4 +272,4 @@ namespace EventToCommand.ViewModels
 
 ### Result
 
-![](EventToCommand/screenshots/result.PNG)
+![](EventToCommand/screenshots/result.png)
